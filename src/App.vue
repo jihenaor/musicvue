@@ -1,6 +1,6 @@
 <template lang="pug">
 #app
-      img(src='./assets/logo.png')
+      img(src='https://jihenaor.github.io/musicvue/assets/logo.png')
       h1 {{ msg }}
       h2 Platzi logo
 
